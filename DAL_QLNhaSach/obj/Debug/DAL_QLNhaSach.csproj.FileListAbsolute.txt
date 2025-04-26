@@ -1,0 +1,219 @@
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\DAL_QLNhaSach.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\DAL_QLNhaSach.pdb
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ET_QLNhaSach.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\EnvDTE.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\stdole.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ET_QLNhaSach.pdb
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.AssemblyReference.cache
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.CoreCompileInputs.cache
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.CopyComplete
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.dll
+D:\LTUD\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.pdb
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\DAL_QLNhaSach.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\DAL_QLNhaSach.pdb
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ET_QLNhaSach.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\EnvDTE.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\stdole.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ET_QLNhaSach.pdb
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.AssemblyReference.cache
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.CoreCompileInputs.cache
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.CopyComplete
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.dll
+C:\trường\Năm 2\LTUD(Lap)\DA_QLNhaSach\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.pdb
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\DAL_QLNhaSach.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\DAL_QLNhaSach.pdb
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ET_QLNhaSach.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\EnvDTE.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\stdole.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ET_QLNhaSach.pdb
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.AssemblyReference.cache
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.CoreCompileInputs.cache
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.csproj.CopyComplete
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.dll
+D:\LTUD\DA_QLNhaSachverson1.1\DA_QLNhaSach\DAL_QLNhaSach\obj\Debug\DAL_QLNhaSach.pdb
