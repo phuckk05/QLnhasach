@@ -11,7 +11,7 @@ namespace DAL_QLNhaSach
 {
     public class DAL_QLSach
     {
-        SqlConnection conn = new SqlConnection("Data Source=LAPTOP-9I5E70JL\\SQLEXPRESS;Initial Catalog=QLNS;Integrated Security=True");
+        SqlConnection conn = new SqlConnection("Data Source=PHUCKK\\SQLEXPRESS;Initial Catalog=QLNS;Integrated Security=True");
 
 
 

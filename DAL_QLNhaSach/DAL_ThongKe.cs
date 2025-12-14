@@ -11,9 +11,9 @@ namespace DAL_QLNhaSach
 {
     public class DAL_ThongKe
     {
-        SqlConnection conn = new SqlConnection("Data Source=LAPTOP-9I5E70JL\\SQLEXPRESS;Initial Catalog=QLNS;Integrated Security=True");
+        SqlConnection conn = new SqlConnection("Data Source=PHUCKK\\SQLEXPRESS;Initial Catalog=QLNS;Integrated Security=True");
 
-         public DataTable LoadDL(string a, string b)
+        public DataTable LoadDL(string a, string b)
         {
             DataTable dt = new DataTable();
 

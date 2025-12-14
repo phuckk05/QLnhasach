@@ -226,5 +226,10 @@ namespace GUi_QLNhaSach
         {
 
         }
+
+        private void cryXuatHoaDonLien_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

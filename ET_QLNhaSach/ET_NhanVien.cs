@@ -30,9 +30,9 @@ namespace ET_QLNhaSach
 
         
 
-        public ET_NhanVien(string id)
+        public ET_NhanVien(string Ten)
         {
-            this.ID = id;
+            this.TenNV1 =  Ten;
 
         }
 

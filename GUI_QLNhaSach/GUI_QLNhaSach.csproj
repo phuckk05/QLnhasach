@@ -218,6 +218,18 @@
       <DependentUpon>ThongKeSoLieu.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="XuatHoaDon.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>XuatHoaDon.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XuatHoaDonLien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XuatHoaDonLien.Designer.cs">
+      <DependentUpon>XuatHoaDonLien.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="BaoCaoKhachHang.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>BaoCaoKhachHang.cs</LastGenOutput>
@@ -304,6 +316,13 @@
     <EmbeddedResource Include="ThongKeSoLieu.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ThongKeSoLieu.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuatHoaDon.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>XuatHoaDon.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XuatHoaDonLien.resx">
+      <DependentUpon>XuatHoaDonLien.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

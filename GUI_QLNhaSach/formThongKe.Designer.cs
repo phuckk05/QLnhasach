@@ -39,6 +39,7 @@
             this.cbTheLoai = new System.Windows.Forms.ComboBox();
             this.CryThongKe = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
             this.ThongKeSoLieu1 = new GUi_QLNhaSach.ThongKeSoLieu();
+            this.cachedCrystalReport11 = new GUi_QLNhaSach.CachedCrystalReport1();
             this.SuspendLayout();
             // 
             // btnBack
@@ -157,7 +158,7 @@
             this.Controls.Add(this.btnThongKe);
             this.Controls.Add(this.btnBack);
             this.Name = "formThongKe";
-            this.Text = "cbThang";
+            this.Text = "form Thống Kê";
             this.Load += new System.EventHandler(this.btnThongKe_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -174,8 +175,9 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox cbNam;
         private CrystalDecisions.Windows.Forms.CrystalReportViewer CryThongKe;
-        private ThongKeSoLieu ThongKeSoLieu1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ComboBox cbTheLoai;
+        private ThongKeSoLieu ThongKeSoLieu1;
+        private CachedCrystalReport1 cachedCrystalReport11;
     }
 }

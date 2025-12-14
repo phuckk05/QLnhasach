@@ -10,9 +10,9 @@ namespace DAL_QLNhaSach
 {
     public class DAL_TaiKhoan
     {
-        SqlConnection conn = new SqlConnection("Data Source=DESKTOP-7IFDIQJ;Initial Catalog=QLNS1;Integrated Security=True");
+        SqlConnection conn = new SqlConnection("Data Source=PHUCKK\\SQLEXPRESS;Initial Catalog=QLNS;Integrated Security=True");
 
-         public bool ThemTK(string a, string b)
+        public bool ThemTK(string a, string b)
         {
             bool flag = false;
 

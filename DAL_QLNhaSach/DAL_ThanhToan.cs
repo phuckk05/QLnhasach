@@ -11,7 +11,7 @@ namespace DAL_QLNhaSach
     public class DAL_ThanhToan
     {
         
-        SqlConnection conn = new SqlConnection("Data Source=LAPTOP-9I5E70JL\\SQLEXPRESS;Initial Catalog=QLNS;Integrated Security=True");
+        SqlConnection conn = new SqlConnection("Data Source=PHUCKK\\SQLEXPRESS;Initial Catalog=QLNS;Integrated Security=True");
 
 
 
@@ -429,7 +429,7 @@ namespace DAL_QLNhaSach
                 conn.Open();
 
 
-                SqlCommand cmd = new SqlCommand("SP_HoaDon", conn);
+                SqlCommand cmd = new SqlCommand("SP_HoaDonChiTiet", conn);
                 cmd.CommandType = CommandType.StoredProcedure;
                 SqlParameter pra = new SqlParameter("@mahdct", et.ID1);
                 cmd.Parameters.Add(pra);
@@ -468,7 +468,7 @@ namespace DAL_QLNhaSach
                 conn.Close();
             }
 
-     return flag;
+               return flag;
 
         }
 
@@ -482,7 +482,7 @@ namespace DAL_QLNhaSach
                 conn.Open();
 
 
-                SqlCommand cmd = new SqlCommand("SP_ThemHoaDOnn", conn);
+                SqlCommand cmd = new SqlCommand("SP_ThemHoaDOnnn", conn);
                 cmd.CommandType = CommandType.StoredProcedure;
                 SqlParameter pra = new SqlParameter("@mahd", et.ID1);
                 cmd.Parameters.Add(pra);

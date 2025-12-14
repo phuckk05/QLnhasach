@@ -123,13 +123,13 @@ namespace GUi_QLNhaSach
                     ET_NhanVien ett = new ET_NhanVien(cbMaNV.Text);
 
                     string b = tt.LoadMaTheoTen(ett);
+                    MessageBox.Show($"Mã nhân viên {b.ToString()}", "Thông Báo Người Dùng ", MessageBoxButtons.OK);
 
-            
 
                     ET_HoaDon et = new ET_HoaDon(txtMaHD.Text, dateNgayBan.Text, txtMaKH.Text, b.ToString(), a);
                     if (tt.LayMaHDTRONG(et) == true)
                     {
-
+                        MessageBox.Show("Tạo hóa đơn thành công ! ", "Thông Báo Người Dùng ", MessageBoxButtons.OK);
                     }
 
                     hasRun = true;
@@ -137,7 +137,7 @@ namespace GUi_QLNhaSach
 
                 //}
 
-                int MAHDCT = tt.LayHoaDon() + 1;
+                    int MAHDCT = tt.LayHoaDon() + 1;
                     int n = Convert.ToInt32(cbSL.Text);
                     int d = Convert.ToInt32(txtThanhTien.Text);
                     //MessageBox.Show(MAHDCT.ToString());
@@ -146,34 +146,34 @@ namespace GUi_QLNhaSach
                     if (tt.LayHoaDonChiteit(ehdct) == true)
                     {
 
-                        ET_Sach etsach = new ET_Sach();
-                         etsach.IDSach1 = txtMaSach.Text;
+                           ET_Sach etsach = new ET_Sach();
+                           etsach.IDSach1 = txtMaSach.Text;
 
-                         int sl = tt.LaySoLuong(etsach) - n;
+                           int sl = tt.LaySoLuong(etsach) - n;
 
 
-                           ET_Sach sach2 = new ET_Sach(txtMaSach.Text, sl);
-                    if (busach.UpdateSlSach(sach2) == true)
-                    {
-                        MessageBox.Show("Thêm Thành Công ", "Thông Báo Người Dùng ", MessageBoxButtons.OK);
-
-                    }
-                    int a = 0;
-                    int b = 0;
-                    int.TryParse(txtThanhTien.Text, out a);
-                    int.TryParse(txtTongTien.Text, out b);
-                    int tong = a + b;
-                    txtTongTien.Text = tong.ToString();
+                            ET_Sach sach2 = new ET_Sach(txtMaSach.Text, sl);
+                           if (busach.UpdateSlSach(sach2) == true)
+                           {
+                           MessageBox.Show("Thêm Thành Công ", "Thông Báo Người Dùng ", MessageBoxButtons.OK);
+ 
+                           }
+                           int a = 0;
+                           int b = 0;
+                           int.TryParse(txtThanhTien.Text, out a);
+                           int.TryParse(txtTongTien.Text, out b);
+                           int tong = a + b;
+                           txtTongTien.Text = tong.ToString();
                     //string b = txtTongTien.Text;
                     //int tong = int.Parse(a + b);
 
-                    txtMaSach.Clear();
-                        txtTenSach.Clear();
-                        txtThanhTien.Clear();
+                           txtMaSach.Clear();
+                           txtTenSach.Clear();
+                           txtThanhTien.Clear();
 
-                        cbSL.SelectedIndex = -1;
-                        txtDonGia.Clear();
-                    LoadHoaDOnchitiet();
+                           cbSL.SelectedIndex = -1;
+                           txtDonGia.Clear();
+                           LoadHoaDOnchitiet();
                   
 
                    //int.TryParse(txtThanhTien.Text, out a);
@@ -293,6 +293,13 @@ namespace GUi_QLNhaSach
                 if (tt.UpdateTongtien(et) == true)
                 {
                     //btnReset.Enabled = true;
+                    DialogResult result = MessageBox.Show("Có muốn in hóa đơn không? ", "Thông báo đến người dùng !", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if (result == DialogResult.Yes)
+                    {
+                        XuatHoaDonLien form = new XuatHoaDonLien(txtMaHD.Text);
+                        this.Hide();
+                        form.Show();
+                    }
                     txtDonGia.Clear();
                     txtMaHD.Clear();
                     txtTongTien.Text = 0.ToString();
@@ -304,11 +311,11 @@ namespace GUi_QLNhaSach
                     
                     LoadDSTrong();
                     TaoSo();
-                    MessageBox.Show("Lưu Thành Công");
+                
                 }
                 else
                 {
-                    MessageBox.Show("Lưu Không Thành Thành Công");
+                    MessageBox.Show("Thanh Toán Không Thành Công");
                 }
             }
 
@@ -379,7 +386,7 @@ namespace GUi_QLNhaSach
             }
             else
             {
-                MessageBox.Show(" Bạn Chưa Lưu Hóa Đơn !", "Thông Báo Người Dùng ", MessageBoxButtons.OK);
+                MessageBox.Show(" Bạn Chưa Thanh Toán Hóa Đơn !", "Thông Báo Người Dùng ", MessageBoxButtons.OK);
             }
         }
 
