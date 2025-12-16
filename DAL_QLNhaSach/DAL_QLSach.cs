@@ -21,7 +21,7 @@ namespace DAL_QLNhaSach
             try
             {
                 conn.Open();
-                SqlCommand cmd = new SqlCommand("SP_TheLoai", conn);
+                SqlCommand cmd = new SqlCommand("SP_TheLoai2", conn);
                 cmd.CommandType = CommandType.StoredProcedure;
 
                 SqlDataAdapter adapter = new SqlDataAdapter(cmd);

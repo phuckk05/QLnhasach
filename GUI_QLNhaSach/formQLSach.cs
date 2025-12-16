@@ -19,7 +19,7 @@ namespace GUi_QLNhaSach
         {
             InitializeComponent();
         }
-       
+
         BUS_QLSach bus = new BUS_QLSach();
         BUS_QLNhaXuatBan busn = new BUS_QLNhaXuatBan();
         private void label7_Click(object sender, EventArgs e)
@@ -34,14 +34,14 @@ namespace GUi_QLNhaSach
         private void btXoa_Click(object sender, EventArgs e)
         {
             ET_Sach et = new ET_Sach(txtId.Text);
-            if(bus.XoaSach(et) == true)
+            if (bus.XoaSach(et) == true)
             {
                 MessageBox.Show("Xóa Thành Công");
                 txtId.Clear();
                 txtDonGia.Clear();
                 txtSL.Clear();
-                cbTheLoai.SelectedIndex =- 1;
-                cbNXB.SelectedIndex =- 1;
+                cbTheLoai.SelectedIndex = -1;
+                cbNXB.SelectedIndex = -1;
                 txtTacGia.Clear();
                 txtTenSach.Clear();
                 txtId.Focus();
@@ -89,12 +89,12 @@ namespace GUi_QLNhaSach
         /// <param name="e"></param>
         private void btThem_Click(object sender, EventArgs e)
         {
-            int dongia =  Convert.ToInt32(txtDonGia.Text);
+            int dongia = Convert.ToInt32(txtDonGia.Text);
             int sl = Convert.ToInt32(txtSL.Text);
             int cb = Convert.ToInt32(cbTheLoai.Text);
             int nxb = Convert.ToInt32(cbNXB.Text);
-               ET_Sach et = new ET_Sach(txtId.Text, txtTenSach.Text, txtTacGia.Text,dongia , sl,cb, nxb);
-           if(bus.ThemDS(et) == true)
+            ET_Sach et = new ET_Sach(txtId.Text, txtTenSach.Text, txtTacGia.Text, dongia, sl, cb, nxb);
+            if (bus.ThemDS(et) == true)
             {
                 MessageBox.Show("Thêm Thành Công ", "Thông Báo Đến Người Dùng", MessageBoxButtons.OK);
                 txtId.Clear();
@@ -128,10 +128,20 @@ namespace GUi_QLNhaSach
                 txtDonGia.Text = dataSach.Rows[dong].Cells[3].Value.ToString();
                 txtSL.Text = dataSach.Rows[dong].Cells[4].Value.ToString();
                 cbTheLoai.Text = dataSach.Rows[dong].Cells[5].Value.ToString();
-                cbNXB.Text = dataSach.Rows[dong].Cells[6].Value.ToString();
+
+                string nhaXuatBanId = dataSach.Rows[dong].Cells[6].Value.ToString();
+                foreach (DataRow row in busn.LayTen().Rows)
+                {
+                    if (nhaXuatBanId == row["NXBID"].ToString())
+                    {
+                        cbNXB.Text = row["TenNXB"].ToString();
+
+                    }
+                }
+
 
             }
-            catch(Exception) { }
+            catch (Exception) { }
         }
 
         private void cbNXB_SelectedIndexChanged(object sender, EventArgs e)
@@ -180,7 +190,7 @@ namespace GUi_QLNhaSach
         /// <param name="e"></param>
         private void txtTimKiem_TextChanged(object sender, EventArgs e)
         {
-            if(txtTimKiem.Text == "")
+            if (txtTimKiem.Text == "")
             {
                 LoadDSSach();
             }
@@ -241,7 +251,7 @@ namespace GUi_QLNhaSach
             {
                 dataSach.DataSource = bus.TimDS(et);
             }
-           
+
         }
         private void btSearch_Click(object sender, EventArgs e)
         {
@@ -250,7 +260,7 @@ namespace GUi_QLNhaSach
 
         private void formQLSach_Load(object sender, EventArgs e)
         {
-            
+
             LoadTheloai();
             LoadTen();
             LoadDSSach();
@@ -259,6 +269,7 @@ namespace GUi_QLNhaSach
         {
             cbNXB.DataSource = busn.LayTen();
             cbNXB.DisplayMember = "TenNXB";
+            cbNXB.ValueMember = "NXBID";
         }
 
         private void LoadDSSach()
@@ -269,7 +280,7 @@ namespace GUi_QLNhaSach
         {
             cbTheLoai.DataSource = bus.LayTheLoai();
             cbTheLoai.DisplayMember = "TheLoaiID";
-            
+
         }
         private void NhaXuatban()
         {

@@ -24,7 +24,7 @@ namespace DAL_QLNhaSach
             {
                 conn.Open();
 
-                SqlCommand cmd = new SqlCommand("SP_LayNXB",conn);
+                SqlCommand cmd = new SqlCommand("SP_LayNXB2",conn);
                 cmd.CommandType = CommandType.StoredProcedure;
 
 

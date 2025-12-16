@@ -113,8 +113,6 @@ namespace GUi_QLNhaSach
             else if (cbTheLoai.Text == "Sách")
             {
 
-
-
                 BaoCaoSach rb = new BaoCaoSach();
                 CryThongKe.ReportSource = rb;
                 CryThongKe.Refresh();
@@ -185,7 +183,7 @@ namespace GUi_QLNhaSach
 
         private void cbTheLoai_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if(cbTheLoai.Text == "Sách")
+            if(cbTheLoai.Text == "Sách" || cbTheLoai.Text == "Nhân Viên")
             {
                 cbThang.Enabled = false;
                 cbNam.Enabled = false;
